@@ -47,6 +47,7 @@ let doubleJump = false
 let kasse: Sprite = null
 let oel: Sprite = null
 let Proletarman: Sprite = null
+game.showLongText("\"Bevæg dig med piletasterne, A for at hoppe.. Held og lykke\"", DialogLayout.Bottom)
 info.setScore(0)
 scene.setBackgroundImage(img`
     9999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999
